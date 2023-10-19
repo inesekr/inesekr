@@ -1,4 +1,4 @@
-Hi there, I am Inese 👋
+Hi there, I'm Inese 👋
 
 💻 During my journey into the world of technology, I've tried both frontend and backend development. And now I'm ready to dive deep into any specialized field that picks my attention because, honestly, everything about IT excites me.
 Genuinely enthusiastic about lifelong learning, I find great satisfaction in constantly expanding my knowledge base and skillset, and then applying it to solve real-world problems and create impactful projects that make a difference.
