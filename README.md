@@ -22,7 +22,7 @@ login option and different user roles. Data stored in MySQL database.
 
 🌱 I’m currently learning ASP.NET Razor with C#.
 
-📫 Reach me: 
+📫 Reach me on 
 Linkedin: https://www.linkedin.com/in/inesekrole
 
 
