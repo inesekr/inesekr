@@ -13,7 +13,9 @@ Genuinely enthusiastic about lifelong learning, I find great satisfaction in con
 - Approach: Design Patterns, Clean Code, Agile in project management
 
 Please check few of my projects:
+
 💡    FlightPlanner - with C# Web API project with data stored in Ms SQL database. Functionality includes possibility to add, search or delete flights and airports, with multiple validations letting to pass unit tests.
+
 💡    web_store - with React.js and PHP for backend. It is web store imitation with products section, cart, login option and different user roles. Data stored in MySQL database.
 
 🌱 I’m currently learning ASP.NET Razor with C#.
