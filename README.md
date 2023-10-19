@@ -12,6 +12,9 @@ Genuinely enthusiastic about lifelong learning, I find great satisfaction in con
 - Tools: Git, Visual Studio, Visual Studio Code
 - Approach: Design Patterns, Clean Code, Agile in project management
 
+🧠 Please check few of my projects:
+FlightPlanner - C# Web API project with data stored in Ms SQL database.
+
 🌱 I’m currently learning ASP.NET Razor with C#
 
 📫 Reach me: 
