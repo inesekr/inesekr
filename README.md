@@ -14,11 +14,10 @@ Genuinely enthusiastic about lifelong learning, I find great satisfaction in con
 
 Please check few of my projects:
 
-💡    FlightPlanner - with C# Web API project with data stored in Ms SQL database. Functionality includes possibility to 
+💡    FlightPlanner - C# Web API project, using Entity framework, data stored in Ms SQL database. Functionality includes possibility to 
 add, search or delete flights and airports, with multiple validations letting to pass unit tests.
 
-💡   web_store - with React.js and PHP for backend. It is web store imitation with products section, cart,
-login option and different user roles. Data stored in MySQL database.
+💡   web_store - web store app made with React.js for frontend, and PHP for backend. Features include CRUD operations for products management, shopping cart, and user authentication with different user roles. Data stored in MySQL database.
 
 🌱 I’m currently learning ASP.NET Razor with C#.
 
