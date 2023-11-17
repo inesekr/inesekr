@@ -14,12 +14,12 @@ Genuinely enthusiastic about lifelong learning, I find great satisfaction in con
 
 Please check few of my projects:
 
+💡    CvApp - C# ASP.NET Core WEB App (Model-View-Controller) project, with EntityFramework used for storing data in DB using Azure Data Studio. It enables creating, editing, deleting CVs, and is nicely displaying on screen one specific CV. For now it contains 3 sections - general info, languages and education (more sections can be added if required).
+
 💡    FlightPlanner - C# Web API project, using Entity framework, data stored in Ms SQL database. Functionality includes possibility to 
 add, search or delete flights and airports, with multiple validations letting to pass unit tests.
 
 💡   web_store - web store app made with React.js for frontend, and PHP for backend. Features include CRUD operations for products management, shopping cart, and user authentication with different user roles. Data stored in MySQL database.
-
-🌱 I’m currently learning ASP.NET Razor with C#.
 
 📫 Reach me on 
 Linkedin: https://www.linkedin.com/in/inesekrole
