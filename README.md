@@ -16,6 +16,8 @@ Please check few of my projects:
 
 💡    CvApp - C# ASP.NET Core WEB App (Model-View-Controller) project, with EntityFramework used for storing data in DB using Azure Data Studio. It enables creating, editing, deleting CVs, and is nicely displaying on screen one specific CV. For now it contains 3 sections - general info, languages and education (more sections can be added if required).
 
+💡    ProductsApp - project written in React.js and TypeScript project, used Tailwind for styling and making page responsive. This project is for fetching product data from the endpoint https://run.mocky.io/v3/b54fe93f-f5a1-426b-a76c-e43d246901fd, and displaying them nicely on page. Features include display of product card for one specific product, automatic search option by product name or category, and pagination.
+
 💡    FlightPlanner - C# Web API project, using Entity framework, data stored in Ms SQL database. Functionality includes possibility to 
 add, search or delete flights and airports, with multiple validations letting to pass unit tests.
 
