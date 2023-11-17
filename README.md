@@ -18,9 +18,6 @@ Please check few of my projects:
 
 💡    ProductsApp - project written in React.js and TypeScript project, used Tailwind for styling and making page responsive. This project is for fetching product data from the endpoint https://run.mocky.io/v3/b54fe93f-f5a1-426b-a76c-e43d246901fd, and displaying them nicely on page. Features include display of product card for one specific product, automatic search option by product name or category, and pagination.
 
-💡    FlightPlanner - C# Web API project, using Entity framework, data stored in Ms SQL database. Functionality includes possibility to 
-add, search or delete flights and airports, with multiple validations letting to pass unit tests.
-
 💡   web_store - web store app made with React.js for frontend, and PHP for backend. Features include CRUD operations for products management, shopping cart, and user authentication with different user roles. Data stored in MySQL database.
 
 📫 Reach me on 
