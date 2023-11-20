@@ -16,7 +16,7 @@ Please check few of my projects:
 
 💡    CvApp - C# ASP.NET Core WEB App (Model-View-Controller) project, with EntityFramework used for storing data in DB using Azure Data Studio. It enables creating, editing, deleting CVs, and is nicely displaying on screen one specific CV. For now it contains 3 sections - general info, languages and education (more sections can be added if required).
 
-💡    CarSpeedDataApp - C# ASP.NET WebApp project, with EntityFramework used for storing data in SQLite DB. It allows to  load data from file to DB, display them in form of table with filtering oprions by speed or/and by date, and also to generate and display graph of average speed by hours for specific selected date.
+💡    CarSpeedDataApp - C# ASP.NET WebApp project, with EntityFramework used for storing data in SQLite DB. It allows to  load data from file to DB, display them in form of table with filtering oprions by speed or/and by date, and also to generate and display chart of average speed by hours for specific selected date.
 
 💡    ProductsApp - project written in React.js and TypeScript project, used Tailwind for styling and making page responsive. This project is for fetching product data from the endpoint https://run.mocky.io/v3/b54fe93f-f5a1-426b-a76c-e43d246901fd, and displaying them nicely on page. Features include display of product card for one specific product, automatic search option by product name or category, and pagination.
 
