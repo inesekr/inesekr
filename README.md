@@ -6,7 +6,7 @@ Genuinely enthusiastic about lifelong learning, I find great satisfaction in con
 🌟 I'm a developer with a passion for full-stack mastery. I enjoy seeing the big picture in software projects, bridging the gap between frontend and backend. My goal is to create seamless, user-friendly solutions by understanding every layer of the technology stack.
 
 📚 My Tech Stack:
-- Backend: C#, ASP.NET Core, Web API, Entity Framework, Unit testing
+- Backend: C#, ASP.NET Core, Web App (MVC), Web API, Entity Framework, Unit testing
 - Frontend: HTML, CSS, JavaScript, Typescript, Bootstrap, React.js
 - Databases: MySQL, MS SQL
 - Tools: Git, Visual Studio, Visual Studio Code
